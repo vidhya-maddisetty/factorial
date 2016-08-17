@@ -12,7 +12,7 @@ int main() {
 
         printf("The factorial is %i\n", fact);
         
-    }
+    
 
     return 0;
 }
